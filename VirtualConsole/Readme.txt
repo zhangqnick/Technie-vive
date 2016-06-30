@@ -11,6 +11,7 @@ It is assumed that you already have your project set up for VR. If you are using
 
 Example Scene
 -------------
+htc vive uiÊÖ±ú
 
 There's an example scene in `Assets/Technie/VirtualConsole/Scenes/Example1.scene`. This contains the Virtual Console prefab, the SteamVR camera prefab, a minimal environment, and some trigger boxes.
 
